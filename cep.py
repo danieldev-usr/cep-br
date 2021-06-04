@@ -1,6 +1,6 @@
 import requests
 
-zz = open('newfile.txt','r')
+zz = open('banner.txt','r')
 ll = zz.read()
 print(ll)
 print(' ')
