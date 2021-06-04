@@ -1,5 +1,9 @@
 import requests
+import os
 
+
+def clear(): os.system('clear')
+clear()
 zz = open('banner.txt','r')
 ll = zz.read()
 print(ll)
