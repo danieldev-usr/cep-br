@@ -8,7 +8,7 @@
 <br>
 `apt install git`
 <br>
-`git clone https://github.com/CyberTerrorist-x/cep-br`
+`git clone https://github.com/danieldev-usr/cep-br`
 <br>
 `cd cep-br`
 <br>
